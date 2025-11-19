@@ -74,35 +74,10 @@ Chosen daya types:
 
 
 
-The Algorithm in Python:
-
-# Linear Search function
-def linearSearch(arr, targetVal):
-  print("Steps:")
-  for i in range(len(arr)):
-    print("index:", i, "number:", arr[i]) # To show the steps taken during the search
-    if arr[i] == targetVal: 
-      return i
-  return -1
-
-mylist = [3, 7, 2, 9, 5, 1, 8, 4, 6] # The premade list to search through
-print("List:", mylist) # Allows the user to see the list beforehand to know what to search for
-x = int(input("Number to find: ")) # Allows the user to enter the desired number
-
-
-result = linearSearch(mylist, x) # Returning the result of the linear search function
-
-# Output the result
-if result != -1:
-  print("Found at index", result) # Output the index if found
-else:
-  print("Not found") # If the item is not found, output "Not found"
-
-
 
 
 AI disclaimers:
 All ChatGPT 5.1
 * Helped with the addition of boxes and to resize the boxes as more are added
-* 
+* Created templates for the css part
 
