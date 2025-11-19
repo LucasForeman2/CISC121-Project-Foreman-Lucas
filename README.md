@@ -73,6 +73,14 @@ Chosen daya types:
 <img width="480" height="928.5" alt="image" src="https://github.com/user-attachments/assets/8b23d455-c7cd-4f2e-9170-3f76a2e92170" />
 
 
+Linear Search in Python:
+<img width="664" height="457.5" alt="image" src="https://github.com/user-attachments/assets/a9c8fc16-5904-4a63-aaae-1bbe8f746eb7" />
+
+
+
+
+
+
 
 
 
