@@ -99,6 +99,11 @@ Handling invalid cases:
 
 
 
+
+**Hugging Face app link:**
+
+https://huggingface.co/spaces/Lucas4man/CISC121-Project-Foreman-Lucas-LinSearch/blob/main/app.py
+
 AI disclaimers:
 All ChatGPT 5.1
 * Helped with the addition of boxes and to resize the boxes as more are added
