@@ -145,13 +145,15 @@ List of 100:
 
 <img width="2428" height="1312" alt="image" src="https://github.com/user-attachments/assets/74996d51-885c-4014-bd2d-f39359474a30" />
 
-*Pressing the buttona gain will resume until completion*
+*Pressing the button again will resume until completion*
 
 **After Pressing Stop**
 
 <img width="2383" height="1204" alt="image" src="https://github.com/user-attachments/assets/87e63bad-961f-4be3-818a-2b834e6ae580" />
 
 **Step Navigation**
+
+https://github.com/user-attachments/assets/202b9ec8-e20e-40ab-9fc4-efcc06916b07
 
 
 
@@ -164,7 +166,7 @@ List of 100:
 
 https://huggingface.co/spaces/Lucas4man/CISC121-Project-Foreman-Lucas-LinSearch/blob/main/app.py
 
-AI disclaimers:
+**AI disclaimers:**
 All ChatGPT 5.1
 * Helped with the addition of boxes and to resize the boxes as more are added
 * Created templates for the css part
