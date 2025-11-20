@@ -94,7 +94,6 @@ Handling invalid cases:
 
 
 **Final Gradio Code:**
-
 All zoomed out to see the full screen 
 
 <img width="2601" height="1430" alt="image" src="https://github.com/user-attachments/assets/847de5a5-2106-41b2-9671-747f5befd7c2" />
