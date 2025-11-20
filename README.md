@@ -77,23 +77,23 @@ Chosen daya types:
 
 <img width="664" height="457.5" alt="image" src="https://github.com/user-attachments/assets/a9c8fc16-5904-4a63-aaae-1bbe8f746eb7" />
 
-# **Different input Cases**
+# **Different Input Cases in Python**
 
-First thing you see:
+**First thing you see:**
 
 <img width="449" height="62" alt="image" src="https://github.com/user-attachments/assets/6959610b-3367-4056-b261-7df34f686d3e" />
 
-Handling valid cases:
+**Handling valid cases:**
 
 <img width="468" height="262" alt="image" src="https://github.com/user-attachments/assets/45e24049-7ddd-40f4-a758-ce291c40c18d" />
 
-Handling invalid cases:
+**Handling invalid cases:**
 
 <img width="405" height="121" alt="image" src="https://github.com/user-attachments/assets/00483c79-b88e-429a-8ab1-dcc7041038b7" />
 
 
 
-**Final Gradio Code:**
+# **Final Gradio Code:**
 All zoomed out to see the full screen 
 
 <img width="2601" height="1430" alt="image" src="https://github.com/user-attachments/assets/847de5a5-2106-41b2-9671-747f5befd7c2" />
