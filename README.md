@@ -69,7 +69,7 @@ Chosen daya types:
     * or "Target 10 not found after checking 5 elements
   * Show an error message if the input is invalid
  
-
+# **Flowchart**
 <img width="480" height="928.5" alt="image" src="https://github.com/user-attachments/assets/8b23d455-c7cd-4f2e-9170-3f76a2e92170" />
 
 
