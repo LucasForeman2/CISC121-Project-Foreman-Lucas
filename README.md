@@ -135,6 +135,26 @@ List of 100:
 
 <img width="2375" height="1199" alt="image" src="https://github.com/user-attachments/assets/a70a96a7-64e7-4dde-9a48-69338f07ab43" />
 
+**No List Generated Yet**
+
+<img width="2383" height="1395" alt="image" src="https://github.com/user-attachments/assets/66f350a6-554c-4090-abba-47831032beaa" />
+
+# **Pause/Resunt & Stop Controls**
+
+**After Pressing Pause/Resume**
+
+<img width="2428" height="1312" alt="image" src="https://github.com/user-attachments/assets/74996d51-885c-4014-bd2d-f39359474a30" />
+
+*Pressing the buttona gain will resume until completion*
+
+**After Pressing Stop**
+
+<img width="2383" height="1204" alt="image" src="https://github.com/user-attachments/assets/87e63bad-961f-4be3-818a-2b834e6ae580" />
+
+**Step Navigation**
+
+
+
 
 
 
