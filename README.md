@@ -43,7 +43,7 @@ Hidden from the user:
 * How the string is split and converted into integers
 * Internal error handling logic (try/except) - the user only sees an appropriate error message
 
-Chosen daya types:
+Chosen data types:
 * Raw user input for the list: string (e.g., "1, 4, 7")
 * Converted list: list[int]
 * Target value: int
@@ -93,10 +93,47 @@ Chosen daya types:
 
 
 
-# **Final Gradio Code:**
+## **Final Gradio Code Testing:**
 All zoomed out to see the full screen 
 
+**Opening Screen**
+
 <img width="2601" height="1430" alt="image" src="https://github.com/user-attachments/assets/847de5a5-2106-41b2-9671-747f5befd7c2" />
+
+# **List Generation**
+
+**Creating a normal sized list**
+<img width="2425" height="1444" alt="image" src="https://github.com/user-attachments/assets/bac512a8-aa17-4083-a60e-2410da6067ca" />
+
+**Creating an Edge Case List**
+
+List of 5:
+
+<img width="2460" height="1418" alt="image" src="https://github.com/user-attachments/assets/21538537-81cc-4980-a4bb-e365849115e0" />
+
+List of 100:
+
+<img width="2401" height="1403" alt="image" src="https://github.com/user-attachments/assets/41c90f4f-28eb-4059-8950-56edca3de654" />
+
+# **Running the Search**
+
+**Search where target is found**
+
+<img width="2410" height="1329" alt="image" src="https://github.com/user-attachments/assets/602d11ea-b8bb-4dae-bf1b-45edde5de3d1" />
+
+**Search where target is not found**
+
+<img width="2403" height="1423" alt="image" src="https://github.com/user-attachments/assets/ee232cd5-c911-4207-981c-f613e087176c" />
+
+# **Error / Invalid Input Handling**
+
+**Entering an Invalid Integer**
+
+<img width="2381" height="1206" alt="image" src="https://github.com/user-attachments/assets/a9ac5435-7204-4262-89ff-9fcc5f769d05" />
+
+**No input Entered**
+
+<img width="2375" height="1199" alt="image" src="https://github.com/user-attachments/assets/a70a96a7-64e7-4dde-9a48-69338f07ab43" />
 
 
 
