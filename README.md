@@ -100,7 +100,7 @@ All zoomed out to see the full screen
 
 <img width="2601" height="1430" alt="image" src="https://github.com/user-attachments/assets/847de5a5-2106-41b2-9671-747f5befd7c2" />
 
-# **List Generation**
+### **List Generation**
 
 **Creating a normal sized list**
 <img width="2425" height="1444" alt="image" src="https://github.com/user-attachments/assets/bac512a8-aa17-4083-a60e-2410da6067ca" />
@@ -115,7 +115,7 @@ List of 100:
 
 <img width="2401" height="1403" alt="image" src="https://github.com/user-attachments/assets/41c90f4f-28eb-4059-8950-56edca3de654" />
 
-# **Running the Search**
+### **Running the Search**
 
 **Search where target is found**
 
@@ -125,7 +125,7 @@ List of 100:
 
 <img width="2403" height="1423" alt="image" src="https://github.com/user-attachments/assets/ee232cd5-c911-4207-981c-f613e087176c" />
 
-# **Error / Invalid Input Handling**
+### **Error / Invalid Input Handling**
 
 **Entering an Invalid Integer**
 
@@ -139,7 +139,7 @@ List of 100:
 
 <img width="2383" height="1395" alt="image" src="https://github.com/user-attachments/assets/66f350a6-554c-4090-abba-47831032beaa" />
 
-# **Pause/Resunt & Stop Controls**
+### **Pause/Resunt & Stop Controls**
 
 **After Pressing Pause/Resume**
 
@@ -151,10 +151,13 @@ List of 100:
 
 <img width="2383" height="1204" alt="image" src="https://github.com/user-attachments/assets/87e63bad-961f-4be3-818a-2b834e6ae580" />
 
-**Step Navigation**
+### **Step Navigation**
 
 https://github.com/user-attachments/assets/202b9ec8-e20e-40ab-9fc4-efcc06916b07
 
+## **Full Walkthrough (No Errors)**
+
+https://github.com/user-attachments/assets/69e205f4-391b-43f0-84e6-5e12c7871e47
 
 
 
