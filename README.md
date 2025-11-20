@@ -3,7 +3,7 @@
 Why I chose Linear Search:
 I chose Linear search because it works with any data type and doesn't require the list to be sorted or prepared beforehand. 
 
-## **PROBLEM BREAKDOWN & COMPUTATIONAL THINKING**
+## **Problem Breakdown & Computational Thinking**
 
 **Decomposition**:
 * Get the user's input for:
